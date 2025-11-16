@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/1418981536077844641/1439547011920695418/tony-montana-kimdir-tony-montana-sozleri-neler-15267931_4933_amp.png)
+[![MasterHead](https://preview.redd.it/scarface-1983-iconic-or-overrated-whats-your-honest-take-on-v0-ol1lh4p9ayze1.jpeg?width=640&crop=smart&auto=webp&s=61ffce4d081a33cf25d4526bdb2c8a6694525b9d)
 <h1 align="center">Selam 👋, Ben Sertuğ</h1>
 <h3 align="center">Discord projeleri & Network projeleri & Roblox Projeleri ile uğraşıyorum</h3>
 
