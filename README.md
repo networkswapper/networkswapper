@@ -2,11 +2,9 @@
 <h3 align="center">Javascript Developer</h3>
 
 ## Discord
-<a href="https://discord.com/users/1418955661311606886">
-  <img src="https://lanyard.cnrad.dev/api/1418955661311606886?animatedDecoration=false&hideTag=true&hideSpotify=true&hideDiscrim=true&showDisplayName=true&hideDecoration=true&hideBadges=true&theme=light&idleMessage=the%20fastes%20is%20middle%20east" alt="Discord Profile">
+<a href="https://discord.com/users/1418955661311606886" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-My%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile">
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=networkswapper&color=blue" alt="Profile Views">
 
 
 <h3 align="left">Languages and Tools:</h3>
