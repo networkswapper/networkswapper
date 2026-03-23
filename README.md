@@ -3,7 +3,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.com/users/1418955661311606886" target="_blank">
+<img src="https://lanyard.cnrad.dev/api/1418955661311606886" alt="discord" />
+</a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
