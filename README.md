@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/1418955661311606886" target="_blank">
-<img src="https://lanyard.cnrad.dev/api/1418955661311606886" alt="discord" />
+<img src="https://lanyard.cnrad.dev/api/1418955661311606886" />
 </a>
 </p>
 
