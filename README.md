@@ -1,12 +1,12 @@
 <h1 align="center">Selam 👋, Ben Sertuğ</h1>
 <h3 align="center">Javascript Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.com/users/1418955661311606886" target="_blank">
-<img src="https://lanyard.cnrad.dev/api/1418955661311606886" />
+## Discord
+<a href="https://discord.com/users/1418955661311606886">
+  <img src="https://lanyard.cnrad.dev/api/1418955661311606886?animatedDecoration=false&hideTag=true&hideSpotify=true&hideDiscrim=true&showDisplayName=true&hideDecoration=true&hideBadges=true&theme=light&idleMessage=the%20fastes%20is%20middle%20east" alt="Discord Profile">
 </a>
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=networkswapper&color=blue" alt="Profile Views">
 
 
 <h3 align="left">Languages and Tools:</h3>
