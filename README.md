@@ -6,7 +6,17 @@
   <img src="https://img.shields.io/badge/Discord-My%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile">
 </a>
 
+```js
+var sertug = {
+    name: "sertug",
+    nick: "fonte",
+    languages: ["JavaScript", "Lua"], 
+    location: "TR",
+    isfunny: true,
+};
 
+console.log(sertug);
+```
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> 
@@ -19,3 +29,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a>
 </p>
+
