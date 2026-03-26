@@ -1,9 +1,3 @@
- <a href="https://discord.com/users/423478579150454786" target"_blank"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-</p>
-<div align="center">
-<img src="https://lanyard.cnrad.dev/api/423478579150454786" alt="">
-</div> bu benim değil
-
 <h1 align="center">Selam 👋, Ben Sertuğ</h1>
 <h3 align="center">Javascript Developer</h3>
 
