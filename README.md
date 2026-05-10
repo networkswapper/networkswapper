@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1418955661311606886">
-    <img src="https://lanyard.cnrad.dev/api/1418955661311606886?theme=dark&bg=0d1117&borderRadius=12px&animated=true&idleMessage=%20" />
+    <img src="api.lanyard.rest/v1/users/1418955661311606886" />
   </a>
 </p>
 
@@ -12,8 +12,6 @@
 <p align="center">
   <a href="https://discord.com/users/1418955661311606886">
     <img src="https://img.shields.io/badge/discord-fonte-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <a href="https://github.com/networkswapper">
-    <img src="https://komarev.com/ghpvc/?username=networkscammer&style=for-the-badge&color=0d1117&label=profile+views" />
   </a>
 </p>
 
