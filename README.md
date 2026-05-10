@@ -1,17 +1,20 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=networkscammer;discord+developer;backend+enthusiast" />
+<p align="center">
+  <a href="https://discord.com/users/1418955661311606886">
+    <img src="https://lanyard.cnrad.dev/api/1418955661311606886?theme=dark&bg=0d1117&borderRadius=12px&animated=true&idleMessage=%20" />
+  </a>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=born+to+win" />
+</p>
 
-<a href="https://discord.com/users/1418955661311606886">
-  <img 
-    src="https://lanyard.cnrad.dev/api/1418955661311606886?theme=dark&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=30px"
-  />
-</a>
+<p align="center">
+  <a href="https://discord.com/users/1418955661311606886">
+    <img src="https://img.shields.io/badge/discord-fonte-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://github.com/networkswapper">
+    <img src="https://komarev.com/ghpvc/?username=networkscammer&style=for-the-badge&color=0d1117&label=profile+views" />
+  </a>
+</p>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=networkscammer&color=grey&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
