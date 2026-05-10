@@ -12,6 +12,10 @@
   <a href="https://discord.com/users/1418955661311606886">
     <img src="https://img.shields.io/badge/discord-fonte-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+
+  <a href="https://github.com/networkswapper">
+    <img src="https://img.shields.io/badge/github-portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
